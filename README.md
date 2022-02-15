@@ -1,2 +1,2 @@
-# oit-test
-just a test for now
+# oit-e-commerce
+just an e-comerce website
